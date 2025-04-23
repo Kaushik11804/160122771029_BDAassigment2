@@ -33,7 +33,8 @@ Develop a classification model using Spark to predict categories or labels from 
 
 7.  **Feature Importance:**
     * (Optional) For tree-based models, extract and display feature importance to understand which features contribute most to the predictions.
-
+      
+---
 
 ### Q2. Build a Clustering Model with Spark with a dataset of your choice.
 
