@@ -1,10 +1,4 @@
 
-**File Name:** BDA_Assigment_2.ipynb
-**File Type:** Jupyter Notebook
-**Description:**
-
-This Jupyter Notebook contains code for building both Classification and Clustering models using Spark.
-
 **Content Overview:**
 
 * **Classification Model (Q1):**
